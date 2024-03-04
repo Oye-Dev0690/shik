@@ -1,4 +1,4 @@
 this is file1
-i have made some changes...
 
-new changes
+
+i have made some changes...
